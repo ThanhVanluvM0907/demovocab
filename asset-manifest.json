@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/demovocab/static/css/main.fb04616d.chunk.css",
+    "main.js": "/demovocab/static/js/main.1a525852.chunk.js",
+    "main.js.map": "/demovocab/static/js/main.1a525852.chunk.js.map",
+    "runtime-main.js": "/demovocab/static/js/runtime-main.eb28431b.js",
+    "runtime-main.js.map": "/demovocab/static/js/runtime-main.eb28431b.js.map",
+    "static/js/2.c91357fe.chunk.js": "/demovocab/static/js/2.c91357fe.chunk.js",
+    "static/js/2.c91357fe.chunk.js.map": "/demovocab/static/js/2.c91357fe.chunk.js.map",
+    "static/js/3.e50ae67a.chunk.js": "/demovocab/static/js/3.e50ae67a.chunk.js",
+    "static/js/3.e50ae67a.chunk.js.map": "/demovocab/static/js/3.e50ae67a.chunk.js.map",
+    "index.html": "/demovocab/index.html",
+    "static/css/main.fb04616d.chunk.css.map": "/demovocab/static/css/main.fb04616d.chunk.css.map",
+    "static/js/2.c91357fe.chunk.js.LICENSE.txt": "/demovocab/static/js/2.c91357fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb28431b.js",
+    "static/js/2.c91357fe.chunk.js",
+    "static/css/main.fb04616d.chunk.css",
+    "static/js/main.1a525852.chunk.js"
+  ]
+}
